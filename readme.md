@@ -1,4 +1,4 @@
-# get-urls
+# GetUrls
 
 > Get all URLs in a string
 
@@ -11,25 +11,21 @@ Please note the [known limitation](https://github.com/niftylettuce/url-regex-saf
 ## Install
 
 ```sh
-npm install get-urls
+npm install geturls
 ```
 
 ## Usage
 
 ```js
-import getUrls from 'get-urls';
+import GetUrls from 'geturls';
 
 const text = 'Lorem ipsum dolor sit amet, //sindresorhus.com consectetuer adipiscing http://yeoman.io elit.';
 
-getUrls(text);
-//=> Set {'http://sindresorhus.com', 'http://yeoman.io'}
+GetUrls.getUrls(text);
+//=> ['http://sindresorhus.com', 'http://yeoman.io']
 ```
 
 ## API
-
-### getUrls(text, options?)
-
-Returns a `Set` of URLs.
 
 ### text
 
