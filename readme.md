@@ -11,13 +11,13 @@ Please note the [known limitation](https://github.com/niftylettuce/url-regex-saf
 ## Install
 
 ```sh
-npm install geturls
+npm install @karinjs/geturls
 ```
 
 ## Usage
 
 ```js
-import GetUrls from 'geturls';
+import GetUrls from '@karinjs/geturls';
 
 const text = 'Lorem ipsum dolor sit amet, //sindresorhus.com consectetuer adipiscing http://yeoman.io elit.';
 
