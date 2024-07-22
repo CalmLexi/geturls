@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/CalmLexi/geturls/compare/v1.0.1...v1.0.2) (2024-07-22)
+
+
+### Bug Fixes
+
+* pkg name ([3911c12](https://github.com/CalmLexi/geturls/commit/3911c126b06491ee0a4d6bba43724755bee6a1c5))
+
 ## [1.0.1](https://github.com/CalmLexi/geturls/compare/v1.0.0...v1.0.1) (2024-07-22)
 
 

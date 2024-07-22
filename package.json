@@ -1,6 +1,6 @@
 {
   "name": "@karinjs/geturls",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get all URLs in a string",
   "license": "MIT",
   "repository": "sindresorhus/get-urls",
