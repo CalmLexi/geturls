@@ -1,5 +1,5 @@
 {
-  "name": "geturls",
+  "name": "@karinjs/geturls",
   "version": "1.0.1",
   "description": "Get all URLs in a string",
   "license": "MIT",
